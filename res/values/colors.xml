@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="everyplay_editor_button_background">#e6000000</color>
+    <color name="everyplay_editor_button_text">#ffffffff</color>
+    <color name="everyplay_blue">#ff0a4495</color>
+    <color name="everyplay_native_overlay_background">#d0000000</color>
+    <color name="everyplay_theme_topbar_background">#ff0a4495</color>
+    <color name="everyplay_theme_topbar_actionbutton_text_color">#ffffffff</color>
+    <color name="everyplay_theme_topbar_title_text_color">#ffffffff</color>
+    <color name="everyplay_theme_topbar_icon_color">#ffffffff</color>
+    <color name="everyplay_theme_topbar_icon_active_color">#ffffffff</color>
+    <color name="everyplay_theme_sidemenu_background">#ff444444</color>
+    <color name="everyplay_theme_sidemenu_item_background">#00555555</color>
+    <color name="everyplay_theme_sidemenu_item_background_active">#ff5f5f5f</color>
+    <color name="everyplay_theme_sidemenu_item_badge_background">#ffc21900</color>
+    <color name="everyplay_theme_sidemenu_item_badge_text_color">#ffffffff</color>
+    <color name="everyplay_theme_sidemenu_item_secondary_badge_background">#ffc21900</color>
+    <color name="everyplay_theme_sidemenu_item_secondary_badge_text_color">#ffffffff</color>
+    <color name="everyplay_theme_sidemenu_item_header_text_color">#ffffffff</color>
+    <color name="everyplay_theme_sidemenu_item_description_text_color">#ff909090</color>
+    <color name="everyplay_theme_button_background">#ff2d54c2</color>
+    <color name="everyplay_theme_button_background_active">#ff4369d5</color>
+    <color name="everyplay_theme_button_text_color">#ffffffff</color>
+    <color name="everyplay_theme_distinct_button_background">#ff02a330</color>
+    <color name="everyplay_theme_distinct_button_background_active">#ff4bb82a</color>
+    <color name="everyplay_theme_distinct_button_text_color">#ffffffff</color>
+    <color name="everyplay_theme_splashscreen_background">#ff0a4495</color>
+    <color name="everyplay_theme_splashscreen_statustext_color">#ffffffff</color>
+    <color name="everyplay_theme_splashscreen_retrybutton_text_color">#ffffffff</color>
+</resources>

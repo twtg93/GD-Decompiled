@@ -1,0 +1,40 @@
+.class final Lcom/everyplay/Everyplay/view/videoplayer/a/p$1;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Landroid/content/DialogInterface$OnClickListener;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/everyplay/Everyplay/view/videoplayer/a/p;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic a:Lcom/everyplay/Everyplay/view/videoplayer/a/p;
+
+
+# direct methods
+.method constructor <init>(Lcom/everyplay/Everyplay/view/videoplayer/a/p;)V
+    .locals 0
+
+    iput-object p1, p0, Lcom/everyplay/Everyplay/view/videoplayer/a/p$1;->a:Lcom/everyplay/Everyplay/view/videoplayer/a/p;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onClick(Landroid/content/DialogInterface;I)V
+    .locals 0
+
+    return-void
+.end method

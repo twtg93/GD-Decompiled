@@ -1,0 +1,8 @@
+sonarqube {
+    properties {
+        property "sonar.projectName", "module-java"
+        property "sonar.sources", "."
+        property "sonar.language", "java"
+        property "sonar.verbose", "true"
+    }
+}
